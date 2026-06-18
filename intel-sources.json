@@ -1,0 +1,118 @@
+{
+  "sources": [
+    {
+      "id": "1",
+      "kind": "rss",
+      "url": "https://canaltech.com.br/inteligencia-artificial/feed/",
+      "source": "Canaltech",
+      "type": "Brasil"
+    },
+    {
+      "id": "2",
+      "kind": "rss",
+      "url": "https://www.olhardigital.com.br/tag/inteligencia-artificial/feed/",
+      "source": "Olhar Digital",
+      "type": "Brasil"
+    },
+    {
+      "id": "3",
+      "kind": "rss",
+      "url": "https://www.tecmundo.com.br/inteligencia-artificial/feed",
+      "source": "TecMundo",
+      "type": "Brasil"
+    },
+    {
+      "id": "4",
+      "kind": "rss",
+      "url": "https://exame.com/tecnologia/feed/",
+      "source": "Exame",
+      "type": "Brasil"
+    },
+    {
+      "id": "5",
+      "kind": "rss",
+      "url": "https://news.google.com/rss/search?q=intelig%C3%AAncia+artificial+Brasil+OR+ChatGPT+OR+Gemini+OR+Claude&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "source": "Google Notícias BR",
+      "type": "Brasil"
+    },
+    {
+      "id": "6",
+      "kind": "rss",
+      "url": "https://openai.com/blog/rss.xml",
+      "source": "OpenAI Blog",
+      "type": "Oficial IA"
+    },
+    {
+      "id": "7",
+      "kind": "rss",
+      "url": "https://blog.google/technology/ai/rss/",
+      "source": "Google AI Blog",
+      "type": "Oficial IA"
+    },
+    {
+      "id": "8",
+      "kind": "rss",
+      "url": "https://blogs.microsoft.com/ai/feed/",
+      "source": "Microsoft AI",
+      "type": "Oficial IA"
+    },
+    {
+      "id": "9",
+      "kind": "rss",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source": "TechCrunch AI",
+      "type": "Internacional"
+    },
+    {
+      "id": "10",
+      "kind": "rss",
+      "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source": "The Verge AI",
+      "type": "Internacional"
+    },
+    {
+      "id": "11",
+      "kind": "rss",
+      "url": "https://feeds.feedburner.com/TheHackersNews",
+      "source": "The Hacker News",
+      "type": "Internacional"
+    },
+    {
+      "id": "12",
+      "kind": "youtube",
+      "channelId": "UCGV72aVJuWP0QPNGH4YgIww",
+      "name": "Olhar Digital"
+    },
+    {
+      "id": "13",
+      "kind": "youtube",
+      "channelId": "UCW-7eDEiIt9lINn_4rX25kw",
+      "name": "Canaltech"
+    },
+    {
+      "id": "14",
+      "kind": "youtube",
+      "channelId": "UCRQdwmWMhTcqDFjPT4UPZYA",
+      "name": "TecMundo"
+    },
+    {
+      "id": "15",
+      "kind": "youtube",
+      "channelId": "UC0VWdCYBtYLBdiiuw0VvnuQ",
+      "name": "AI News Brasil"
+    },
+    {
+      "id": "16",
+      "kind": "youtube",
+      "channelId": "UCaP5o58Qt-3sZz-Em4G2W2A",
+      "name": "IA Brasil"
+    },
+    {
+      "id": "1779197862660",
+      "kind": "rss",
+      "url": "https://www.anthropic.com/news",
+      "source": "Anthropic",
+      "type": "Oficial IA"
+    }
+  ]
+}
